@@ -1,0 +1,3 @@
+TAXI_BOT/user.db/
+TAXI_BOT/.env
+TAXI_BOT/__pycache__/
